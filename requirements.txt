@@ -21,7 +21,7 @@ platformdirs==2.5.1
 psycopg2-binary==2.8.4
 pycparser==2.21
 pydotplus==2.0.2
-pygraphviz==1.9
+# pygraphviz==1.9
 PyJWT==2.3.0
 pyparsing==3.0.8
 python3-openid==3.2.0
